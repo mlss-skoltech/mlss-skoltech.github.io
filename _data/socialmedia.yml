@@ -23,10 +23,10 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+ - name: Facebook
+   url: http://www.facebook.com/MLSSSkoltech
+   class: icon-facebook
+   title: "MLSS Skoltech Facebook Page"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
