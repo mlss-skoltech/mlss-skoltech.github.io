@@ -3,15 +3,15 @@
   class: icon-github
   title: "MLSS GitHub"
 
-- name: YouTube
-  url: http://youtube.com/mlss-skoltech
-  class: icon-youtube
-  title: "MLSS YouTube"
+#- name: YouTube
+#  url: http://youtube.com/mlss-skoltech
+#  class: icon-youtube
+#  title: "MLSS YouTube"
 
-- name: Twitter
-  url: http://twitter.com/mlss-skoltech
-  class: icon-twitter
-  title: "MLSS Twitter"
+#- name: Twitter
+#  url: http://twitter.com/mlss-skoltech
+#  class: icon-twitter
+#  title: "MLSS Twitter"
 
 #- name: Mixcloud
 #  url: http://www.mixcloud.com/phlow/

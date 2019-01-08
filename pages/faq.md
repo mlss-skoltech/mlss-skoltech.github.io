@@ -8,7 +8,7 @@ header: no
 
 
 ### When can I apply?	
-The application system will open in the next weeks. See the applications page for more information on the process, and other important dates.
+The application system will open in March, 2019. See the applications page for more information on the process, and other important dates.
 ### How should I arrange accommodation?	
 See the page describing the local arrangements.
 ### What is the poster session?	
