@@ -1,0 +1,21 @@
+- menu_name: "Organizers"
+
+- name: "* MLSS"
+  url: "http://mlss.cc/"
+  class: "network-entypo"
+  title: "Machine Learning Summer School"
+
+- name: "* Skolkovo Institute of Science & Technologh"
+  url: "http://skoltech.ru/"
+  class: "services-newsletter"
+  title: "Skoltech"
+
+- name: "* ADASE Group"
+  url: "http://adase.group/"
+  class: "rss-link"
+  title: "ADASE"
+
+- name: "* Center for Computational and Data-Intensive Science and Engineering"
+  url: "https://crei.skoltech.ru/cdise"
+  class: "sitemap-link"
+  title: "CDISE"

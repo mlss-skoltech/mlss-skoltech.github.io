@@ -1,0 +1,35 @@
+- title: MLSS2019
+  url: "/"
+  side: left
+
+- title: Speakers & Topics
+  url: "/speakers-topics/"
+  side: left
+
+- title: Schedule
+  url: "/schedule/"
+  side: left
+
+- title: Venue
+  url: "/venue/"
+  side: left
+  
+- title: Organizers
+  url: "/organizers/"
+  side: left
+
+- title: Travel
+  url: "/travel/"
+  side: left
+  
+- title: FAQ
+  url: "/faq/"
+  side: left
+
+- title: "Application"
+  url: "/application/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
