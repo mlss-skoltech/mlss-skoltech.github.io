@@ -17,10 +17,10 @@ slogan: 'Machine Learning Summer School 2019 - Moscow, Russia'
 description: >
   The Machine Learning Summer School will take place between the 26th of August and 6th of September, 2019 at Skoltech in Moscow, Russia.
   The MLSS offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference.
-  Join us to learn from world-renowned machine learning specialists, network with a diverse and formidable audience, and enjoy Moscow!.'
+  Join us to learn from world-renowned machine learning specialists, network with a diverse and formidable audience, and enjoy Moscow!
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Organized by <a href="http://skoltech.ru">Skoltech</a>, <a href="http://mlss.cc">MLSS</a> and <a href="http://adase.group">ADASE</a>.</p> <p>Image header by Wassily Kandinsky</p>'
+credits: '<p>Organized by <a href="http://skoltech.ru">Skoltech</a>, <a href="http://mlss.cc">MLSS</a> and <a href="http://adase.group">ADASE</a>.</p> <p>Image header by Wassily Kandinsky. All images license free</p>'
 
 
 # Main author of the website
