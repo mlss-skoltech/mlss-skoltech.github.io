@@ -12,10 +12,10 @@ layout: compress
 	{% endunless %}
 
 	{% include _masthead.html %}
-	<div class="grid-x grid-padding-y grid-margin-y" style="height: 10px;">
+	<div class="row" style="height: 10px;">
 		</div>
-<div class="grid-x grid-padding-y grid-margin-y" style="height: 130px;"> <!-- use is-complete to update values-->
-  <div class="cell large-6 large-offset-3">
+<div class="row" > <!-- use is-complete to update values-->
+  <div class="columns">
   	<ol class="progress-indicator">
   <li class="is-current" data-step="">
   <span>04/03/2019 System opens</span>
@@ -40,8 +40,10 @@ layout: compress
   	</div>
 
 </div><!-- /.grid-x -->
-	<div class="grid-x grid-padding-y grid-margin-y" style="height: 10px;">
+
+	<div class="row" style="height: 40px;">
 		</div>
+
 
 
 	{{ content }}
