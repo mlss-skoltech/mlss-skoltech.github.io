@@ -51,11 +51,36 @@ authors:
    id: joris-mooij
    topic: Causality
    institution-logo: /images/logos/uva_logo-314x100.png
+ - name: Marco Cuturi	
+   id: marco-cuturi
+   topic: Optimal Transport
+   institution-logo: /images/logos/ensae_logo-178x100.png
+ - name: Isabel Valera
+   id: isabel-valera
+   topic: Fairness & Interpretability
+   institution-logo: /images/logos/mpi_logo-124x100.png
+ - name: Shimon Whiteson
+   id: shimon-whiteson
+   topic: Reinforcement Learning
+   institution-logo: /images/logos/oxford_logo-100x100.png
+ - name: Yarin Gal
+   id: yarin-gal
+   topic: Bayesian Deep Learning
+   institution-logo: /images/logos/oxford_logo-100x100.png
+ - name: Justin Solomon
+   id: justin-solomon
+   topic: 3D Deep Learning
+   institution-logo: /images/logos/mit_logo-193x100.png
+ - name: Mark Girolami
+   id: mark-girolami
+   topic: To be confirmed
+   institution-logo: /images/logos/imperial_logo-380x100.png
 ---
 
 
 {% if page.authors %}
-  {% for author in page.authors %}
+  {% assign sorted_authors = page.authors | sort: 'name' %}
+  {% for author in sorted_authors %}
   <ul>
     <li>
       <a href = "#{{ author.id }}"> {{ author.name }} ({{ author.topic }})</a>
@@ -66,7 +91,8 @@ authors:
 * and more to come!
 
 {% if page.authors %}
-  {% for author in page.authors %}
+  {% assign sorted_authors = page.authors | sort: 'name' %}
+  {% for author in sorted_authors %}
     {% include _widget-author.html widget=author %}
 	{% endfor %}
 {% endif %}
