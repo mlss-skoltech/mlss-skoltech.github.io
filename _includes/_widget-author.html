@@ -1,0 +1,46 @@
+
+
+ <div class="about-the-author" id='#{{ author.name }}'>
+  <h3 class="author-title">{{ author.topic }}</h3>
+  <div class="row">
+    <div class="small-12 medium-4 columns">
+      <div class="author-image">
+      	{% if author.pic %}
+      	<img src="{{ author.pic | prepend: site.baseurl }}">
+        {% endif %}
+      </div>
+      <div class="author-social">
+      	{% if author.social %}
+        <a href="#">
+          <span class="fa-stack fa-lg facebook">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        <a href="#">
+          <span class="fa-stack fa-lg twitter">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        <a href="#">
+          <span class="fa-stack fa-lg linkedin">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        {% endif %}
+        {% if author.institution-logo %}
+      	<img src="{{ author.institution-logo | prepend: site.baseurl }}">
+        {% endif %}
+        
+      </div>
+    </div>
+    <div class="small-12 medium-8 columns">
+      <h4 class="separator-left">{{ author.name }}</h4>
+      {% if author.bio %}
+      	<p>{{ author.bio }}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
