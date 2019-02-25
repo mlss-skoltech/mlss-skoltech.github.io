@@ -15,6 +15,7 @@ authors:
    topic: MRI
    institution-logo: /images/logos/mpi_logo-124x100.png
  - name: Ulrich Bauer
+   id: ulrich-bauer
    topic: Topological Data Analysis
    institution-logo: /images/logos/tum_logo-308x100.png
  - name: Michael Bronstein
