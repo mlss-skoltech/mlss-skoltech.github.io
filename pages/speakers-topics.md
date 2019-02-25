@@ -11,12 +11,14 @@ image:
   
 authors:
  - name: Michel Besserve
+   id: michel-besserve
    topic: MRI
    institution-logo: /images/logos/mpi_logo-124x100.png
  - name: Ulrich Bauer
    topic: Topological Data Analysis
    institution-logo: /images/logos/tum_logo-308x100.png
  - name: Michael Bronstein
+   id: michael-bronstein
    topic: Graph Neural Networks
    institution-logo: /images/logos/imperial_logo-380x100.png
    pic: /images/speakers/speaker_bronstein_1173x433.png
@@ -32,6 +34,7 @@ authors:
     Michael has been one of the key developers of the Intel RealSense technology in the role of Principal Engineer. His most recent venture is Fabula AI, a startup 
     dedicated to algorithmic detection of fake news using geometric deep learning.
  - name: Nicolò Cesa-Bianchi
+   id: nicolo-cesa-bianchi
    topic: Online Learning
    institution-logo: /images/logos/milano_logo-100x100.png
    pic: /images/speakers/speaker_cesabianchi_2112×2816.jpg
@@ -41,9 +44,11 @@ authors:
     and graph analytics with applications to social networks and bioinformatics. He is co-author of the monographs "Prediction, Learning, and Games" and "Regret Analysis of 
     Stochastic and Nonstochastic Multi-armed Bandit Problems".
  - name: Arthur Gretton
+   id: arthur-gretton
    topic: Kernels
    institution-logo: /images/logos/ucl_logo-341x100.png
  - name: Joris Mooij
+   id: joris-mooij
    topic: Causality
    institution-logo: /images/logos/uva_logo-314x100.png
 ---
@@ -53,7 +58,7 @@ authors:
   {% for author in page.authors %}
   <ul>
     <li>
-      <a href = "#{{ author.name }}"> {{ author.name }} ({{ author.topic }})</a>
+      <a href = "#{{ author.id }}"> {{ author.name }} ({{ author.topic }})</a>
     </li>
   </ul>
 	{% endfor %}
