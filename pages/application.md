@@ -7,7 +7,7 @@ permalink: "/application/"
 header: no
 ---
 
-Applications are **open** until the **5th of April 23:59 Pacific Time**.<br/>
+Applications are **open** until the **6th of May 23:59 Pacific Time**.<br/>
 Candidates will be selected competitively based on submitted documents, including letters of reference.
 
 ## Audience
@@ -44,8 +44,8 @@ Documents required:
 
 {% include alert info='Important Dates' %}
 * Mon, 4 March 2019: Application system opens.
-* Fri, 5 April 2019 23:59 Pacific time: Deadline for applications.
-* Fri, 12 April 2019 23:59 Pacific Time: Deadline for submission of reference letters.
-* Mon, 6 May 2019: Notification of acceptance.
-* Fri, 17 May 2019: Registration fees due.
+* Fri, 6 May 2019 23:59 Pacific Time: Deadline for applications.
+* Fri, 12 May 2019 23:59 Pacific Time: Deadline for submission of reference letters.
+* Mon, 6 June 2019: Notification of acceptance.
+* Fri, 17 June 2019: Registration fees due.
 * Mon, 26 August to Fri, 6 September 2019: MLSS takes place.

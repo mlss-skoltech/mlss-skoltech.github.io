@@ -27,15 +27,15 @@ Please use the 'Files' section to upload:
 ![Fourth registration step][step4]<br/>
 and proceed to fill in the additional details.
 
-Recommendation letters can be uploaded until the 12th of April 23:59 Pacific Time. <br/>
-All other documents and details should be in the system by the 5th of April 23:59 Pacific Time
+Recommendation letters can be uploaded until the 12th of May 23:59 Pacific Time. <br/>
+All other documents and details should be in the system by the 6th of May 23:59 Pacific Time
 
 {% include alert info='Important Dates' %}
 * Mon, 4 March 2019: Application system opens.
-* Fri, 5 April 2019 23:59 Pacific Time: Deadline for applications.
-* Fri, 12 April 2019 23:59 Pacific Time: Deadline for submission of reference letters.
-* Mon, 6 May 2019: Notification of acceptance.
-* Fri, 17 May 2019: Registration fees due.
+* Fri, 6 May 2019 23:59 Pacific Time: Deadline for applications.
+* Fri, 12 May 2019 23:59 Pacific Time: Deadline for submission of reference letters.
+* Mon, 6 June 2019: Notification of acceptance.
+* Fri, 17 June 2019: Registration fees due.
 * Mon, 26 August to Fri, 6 September 2019: MLSS takes place.
  
 [step1]: {{ site.urlimg }}application/registration1-500x616.png "First registration step"
