@@ -22,12 +22,10 @@ $dark-gray: $grey-12;
     text-align: center;
     font-size: 1.5em;
     
-     @media only screen and (max-width : 450px){
-       font-size: 65%;
-     }
      @media only screen and (max-width : 600px){
-         font-size: 85%;
+       font-size: 75%;
      }
+     //@media only screen and (max-width : 600px){font-size: 85%;}
 
     span {
       position: absolute;
@@ -38,12 +36,10 @@ $dark-gray: $grey-12;
       letter-spacing: 0.05px;
       text-transform: uppercase;
       
-       @media only screen and (max-width : 450px){
-         font-size: 65%;
-       }
        @media only screen and (max-width : 600px){
-         font-size: 85%;
+         font-size: 75%;
        }
+       //@media only screen and (max-width : 600px){font-size: 85%;}
     }
 
     &::before {
