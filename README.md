@@ -3,8 +3,8 @@
 ### Dates: 26th of August to 6th of September 2019
 ### Important Dates
 * Mon, 4 March 2019: Application system opens.
-* Fri, 5 April 2019: Deadline for applications.
-* Fri, 12 April 2019: Deadline for submission of reference letters.
+* Fri, 5 April 2019 23:59 Pacific Time: Deadline for applications.
+* Fri, 12 April 2019 23:59 Pacific Time: Deadline for submission of reference letters.
 * Mon, 6 May 2019: Notification of acceptance.
 * Fri, 17 May 2019: Registration fees due.
 * Mon, 26 August to Fri, 6 September 2019: MLSS takes place.
