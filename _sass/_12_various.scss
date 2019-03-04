@@ -22,8 +22,8 @@ $dark-gray: $grey-12;
     text-align: center;
     font-size: 1.5em;
     
-     @media only screen and (max-width : 414px){
-       font-size: 70%;
+     @media only screen and (max-width : 450px){
+       font-size: 65%;
      }
      @media only screen and (max-width : 600px){
          font-size: 85%;
@@ -38,8 +38,8 @@ $dark-gray: $grey-12;
       letter-spacing: 0.05px;
       text-transform: uppercase;
       
-       @media only screen and (max-width : 414px){
-         font-size: 70%;
+       @media only screen and (max-width : 450px){
+         font-size: 65%;
        }
        @media only screen and (max-width : 600px){
          font-size: 85%;
