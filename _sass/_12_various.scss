@@ -21,6 +21,13 @@ $dark-gray: $grey-12;
     display: table-cell;
     text-align: center;
     font-size: 1.5em;
+    
+     @media only screen and (max-width : 414px){
+       font-size: 80%;
+     }
+     @media only screen and (max-width : 600px){
+         font-size: 85%;
+     }
 
     span {
       position: absolute;
@@ -30,6 +37,13 @@ $dark-gray: $grey-12;
       font-size: rem-calc(14);
       letter-spacing: 0.05px;
       text-transform: uppercase;
+      
+       @media only screen and (max-width : 414px){
+         font-size: 80%;
+       }
+       @media only screen and (max-width : 600px){
+         font-size: 85%;
+       }
     }
 
     &::before {
@@ -92,6 +106,7 @@ $dark-gray: $grey-12;
       }
     }
   }
+  
 }
 
 // Author scss
