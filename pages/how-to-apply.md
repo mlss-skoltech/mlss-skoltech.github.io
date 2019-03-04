@@ -27,7 +27,8 @@ Please use the 'Files' section to upload:
 ![Fourth registration step][step4]<br/>
 and proceed to fill in the additional details.
 
-Recommendation letters can be uploaded until the 12th of April 23:59 Pacific Time. All other documents and details should be in the system by the 5th of April 23:59 Pacific Time
+Recommendation letters can be uploaded until the 12th of April 23:59 Pacific Time. <br/>
+All other documents and details should be in the system by the 5th of April 23:59 Pacific Time
 
 {% include alert info='Important Dates' %}
 * Mon, 4 March 2019: Application system opens.
