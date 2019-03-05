@@ -8,7 +8,7 @@ header: no
 ---
 
 Applications are **open** until the **6th of May 23:59 Pacific Time**.<br/>
-Candidates will be selected competitively based on submitted documents, including letters of reference.
+Candidates will be selected competitively based on submitted documents, including reference letters.
 
 ## Audience
 Early and mid stage PhD students. However, we will also consider strong applications by MSc students subject to space and availability.<br/> 
@@ -27,14 +27,14 @@ We are negotiating accomodation in the vicinity. Please come back later for furt
 Full and partial (25%) stipends will be available to students with a strong profile and in need of financial support. <br/>
 Recipients will be informed of the details in their confirmation mail. <br/>
 Please, specify that you need financial support in the registration form. <br/>
-Your letter of reference should also mention that you need financial support. You should use the comments box to add additional details about your circumstances.
+Your motivation letter should also provide details on your specific circumstances.
 
 ## How to apply
 An application guide can be found [here](/how-to-apply/)
 
 ## Registration
 Documents required:
-* CV (Max 2 pages including education, work experience and other relevant info)
+* CV (max 2 pages including education, work experience and other relevant info)
 * Academic records (transcript)
 * Up to 2 recommendation letters (max 500 words each)
 * Motivation statement (max 500 words)
