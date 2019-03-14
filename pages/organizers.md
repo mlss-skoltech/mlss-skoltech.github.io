@@ -9,18 +9,21 @@ image:
     caption: Prof. Evgeny Burnaev, Skoltech
 ---
 
-### Fernando Perez Cruz
-#### Swiss Data Science Center
-![Fernando Perez Cruz][perezcruz]
+### Alexander Kuleshov 
+#### Co-chair, President, Skoltech
 
 ### Evgeny Burnaev
-#### Skoltech
+#### Co-chair, Associate Professor, CDISE
 ![Evgeny Burnaev][burnaev]
 
 ### Rodrigo Rivera
-#### Skoltech
+#### Researcher, CDISE
 ![Rodrigo Rivera][rodrigorivera]
 
-[perezcruz]: {{ site.urlimg }}org_perezcruz_321x350.jpg "Fernando Perez Cruz"
-[burnaev]: {{ site.urlimg }}org_burnaev_332x350.jpg "Evgeny Burnaev"
-[rodrigorivera]: {{ site.urlimg }}org_rodrigorivera_313x350.jpg "Rodrigo Rivera"
+### Fernando Perez Cruz
+#### Chief Data Scientist, Swiss Data Science Center
+![Fernando Perez Cruz][perezcruz]
+
+[perezcruz]: {{ site.urlimg }}organizers/org_perezcruz_179x200.jpg "Fernando Perez Cruz"
+[burnaev]: {{ site.urlimg }}organizers/org_burnaev_179x200.jpg "Evgeny Burnaev"
+[rodrigorivera]: {{ site.urlimg }}organizers/org_rodrigorivera_179x200.jpg "Rodrigo Rivera"
