@@ -11,6 +11,7 @@ image:
 
 ### Alexander Kuleshov 
 #### Co-chair, President, Skoltech
+![Alexander Kuleshov ][kuleshov]
 
 ### Evgeny Burnaev
 #### Co-chair, Associate Professor, CDISE
@@ -24,6 +25,7 @@ image:
 #### Chief Data Scientist, Swiss Data Science Center
 ![Fernando Perez Cruz][perezcruz]
 
+[kuleshov]: {{ site.urlimg }}organizers/org_kuleshov_179x200.jpg "Alexander Kuleshov "
 [perezcruz]: {{ site.urlimg }}organizers/org_perezcruz_179x200.jpg "Fernando Perez Cruz"
 [burnaev]: {{ site.urlimg }}organizers/org_burnaev_179x200.jpg "Evgeny Burnaev"
 [rodrigorivera]: {{ site.urlimg }}organizers/org_rodrigorivera_179x200.jpg "Rodrigo Rivera"
