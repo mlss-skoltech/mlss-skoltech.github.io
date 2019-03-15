@@ -40,7 +40,7 @@ widget3:
 #
 callforaction:
   url: /application
-  text: Apply now ›
+  text: REGISTRATION ›
   style: alert
 permalink: /index.html
 #

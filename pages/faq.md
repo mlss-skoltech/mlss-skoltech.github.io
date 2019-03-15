@@ -12,6 +12,10 @@ Early and mid stage PhD students. However, we will also consider strong applicat
 The application system is open until the **6th of May 2019**. See the [application](/application/) page for more information on the process, and other important dates.
 ### How do I apply?
 See please the [How to apply](/how-to-apply/) page.
+### How much does it cost?
+* Students: 400 Euro
+* Postdocs in academia and other faculty: 550 Euro
+* Members of industry: 1000 Euro
 ### How should I arrange accommodation?	
 See please the [travel](/travel/) page.
 ### What is the poster session?	
