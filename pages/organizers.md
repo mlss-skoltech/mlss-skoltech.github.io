@@ -13,11 +13,11 @@ image:
 ![Alexander Kuleshov ][kuleshov] ![Evgeny Burnaev][burnaev]
 
 - Alexander Kuleshov / Co-chair, President, Skoltech
-- Evgeny Burnaev, Co-chair, Associate Professor, CDISE
+- Evgeny Burnaev / Co-chair, Associate Professor, CDISE, Skoltech
 
 ![Rodrigo Rivera Castro][rodrigorivera] ![Fernando Perez Cruz][perezcruz]
 
-- Rodrigo Rivera Castro, Researcher, CDISE
+- Rodrigo Rivera Castro, Researcher, CDISE, Skoltech
 - Fernando Perez Cruz, Chief Data Scientist, Swiss Data Science Center
 
 

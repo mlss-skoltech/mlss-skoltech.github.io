@@ -21,15 +21,16 @@
 - title: Travel
   url: "/travel/"
   side: left
+
+- title: "APPLY!"
+  url: "/application/"
+  side: right
   
 - title: FAQ
   url: "/faq/"
-  side: left
-
-- title: "Application"
-  url: "/application/"
   side: right
-
+  
 - title: "Contact"
   url: "/contact/"
   side: right
+

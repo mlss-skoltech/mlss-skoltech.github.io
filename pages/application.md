@@ -7,6 +7,8 @@ permalink: "/application/"
 header: no
 ---
 
+<a class="radius button small" href="https://cmt3.research.microsoft.com/MLSSM2019/">APPLY! ›</a>
+
 Applications are **open** until the **6th of May 23:59 Pacific Time**.<br/>
 Candidates will be selected competitively based on submitted documents, including reference letters.
 
