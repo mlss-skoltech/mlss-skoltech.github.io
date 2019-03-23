@@ -21,14 +21,13 @@ Lunch and coffee breaks will be offered during the school. <br/>
 We are negotiating accomodation in the vicinity. Please come back later for further information.
 
 ## Scholarships
-Full and partial (25%) stipends will be available to students with a strong profile and in need of financial support. <br/>
-Travel support covering accomodation will be offered to the best applications. <br/>
+**Full and partial (25%) stipends** are available to students with a strong profile. <br/>
+**Accomodation is covered** for the best applications. <br/>
 Recipients will be informed of the details in their confirmation mail. <br/>
 Please, specify that you need financial support in the registration form. <br/>
-Your motivation letter should also provide details on your specific circumstances.
 
 ## Fees
-* Students: 400 Euro
+* Students: 400 Euro (See above on travel and registration stipends)
 * Postdocs in academia and other faculty: 550 Euro
 * Members of industry: 1000 Euro
 
