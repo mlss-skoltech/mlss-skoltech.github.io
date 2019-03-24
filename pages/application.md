@@ -17,7 +17,7 @@ Early and mid stage PhD students. However, we will also consider strong applicat
 We also have a separate application category for postdocs, faculty and industry practitioners. Industrial applicants can also obtain tickets via industry sponsorship.
 
 ## Room & Boarding
-Lunch and coffee breaks will be offered during the school. <br/>
+**Daily lunch and coffee breaks offered to all participants.** <br/>
 We are negotiating accomodation in the vicinity. Please come back later for further information.
 
 ## Scholarships
@@ -27,6 +27,7 @@ Recipients will be informed of the details in their confirmation mail. <br/>
 Please, specify that you need financial support in the registration form. <br/>
 
 ## Fees
+Includes shuttle to the venue, daily lunches & two coffee breaks, Moscow tour and two social events.
 * Students: 400 Euro (See above on travel and registration stipends)
 * Postdocs in academia and other faculty: 550 Euro
 * Members of industry: 1000 Euro
