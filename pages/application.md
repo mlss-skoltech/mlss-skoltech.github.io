@@ -22,7 +22,7 @@ We are negotiating accomodation in the vicinity. Please come back later for furt
 
 ## Scholarships
 **Full and partial (25%) stipends** are available to students with a strong profile. <br/>
-**Accomodation is covered** for the best applications. <br/>
+**Accommodation is covered** for the best applications. <br/>
 Recipients will be informed of the details in their confirmation mail. <br/>
 Please, specify that you need financial support in the registration form. <br/>
 
