@@ -17,6 +17,12 @@ Includes shuttle to the venue, daily lunches & two coffee breaks, Moscow tour an
 * Students: 400 Euro (Stipends covering accommodation and registration are available, see below for details)
 * Postdocs in academia and other faculty: 550 Euro
 * Members of industry: 1000 Euro
+### Which are the important dates to pay attention to?
+* Mon, 4 March 2019: Application system opens.
+* Fri, 12 May 2019 23:59 Pacific Time: Deadline for applications and submission of reference letters.
+* Mon, 6 June 2019: Notification of acceptance.
+* Fri, 17 June 2019: Registration fees due.
+* Mon, 26 August to Fri, 6 September 2019: MLSS takes place.
 ### How should I arrange accommodation?	
 See please the [travel](/travel/) page.
 ### What is the poster session?	

@@ -9,7 +9,7 @@ header: no
 
 <a class="radius button small" href="https://cmt3.research.microsoft.com/MLSSM2019/">APPLY! ›</a>
 
-Applications are **open** until the **6th of May 23:59 Pacific Time**.<br/>
+Applications are **open** until the **12th of May 23:59 Pacific Time**.<br/>
 Candidates will be selected competitively based on submitted documents, including reference letters.
 
 ## Audience
@@ -39,7 +39,7 @@ An application guide can be found [here](/how-to-apply/)
 Documents required:
 * CV (max 2 pages including education, work experience and other relevant info)
 * Academic records (transcript)
-* Up to 2 recommendation letters (max 500 words each)
+* At least one recommendation letter (max 500 words each)
 * Motivation statement (max 500 words)
 * Title and abstract for your poster
 
@@ -47,8 +47,7 @@ Documents required:
 
 {% include alert info='Important Dates' %}
 * Mon, 4 March 2019: Application system opens.
-* Fri, 6 May 2019 23:59 Pacific Time: Deadline for applications.
-* Fri, 12 May 2019 23:59 Pacific Time: Deadline for submission of reference letters.
+* Fri, 12 May 2019 23:59 Pacific Time: Deadline for applications and submission of reference letters.
 * Mon, 6 June 2019: Notification of acceptance.
 * Fri, 17 June 2019: Registration fees due.
 * Mon, 26 August to Fri, 6 September 2019: MLSS takes place.
