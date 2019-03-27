@@ -28,9 +28,9 @@ Please, specify that you need financial support in the registration form. <br/>
 
 ## Fees
 Includes shuttle to the venue, daily lunches & coffee breaks, Moscow tour and two social events.
-* Students: 400 Euro (See above on travel and registration stipends)
-* Postdocs in academia and other faculty: 550 Euro
-* Members of industry: 1000 Euro
+* Students: $400 (See above on travel and registration stipends)
+* Postdocs in academia and other faculty: $550
+* Members of industry: $1000
 
 ## How to apply
 An application guide can be found [here](/how-to-apply/)

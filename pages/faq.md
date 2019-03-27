@@ -14,9 +14,9 @@ The application system is open until the **6th of May 2019**. See the [applicati
 See please the [How to apply](/how-to-apply/) page.
 ### How much does it cost?
 Includes shuttle to the venue, daily lunches & two coffee breaks, Moscow tour and two social events.
-* Students: 400 Euro (Stipends covering accommodation and registration are available, see below for details)
-* Postdocs in academia and other faculty: 550 Euro
-* Members of industry: 1000 Euro
+* Students: $400 (Stipends covering accommodation and registration are available, see below for details)
+* Postdocs in academia and other faculty: $550
+* Members of industry: $1000
 ### Which are the important dates to pay attention to?
 * Mon, 4 March 2019: Application system opens.
 * Fri, 12 May 2019 23:59 Pacific Time: Deadline for applications and submission of reference letters.
