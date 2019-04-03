@@ -21,6 +21,10 @@
 - title: Travel
   url: "/travel/"
   side: left
+  
+- title: Sponsors & Partners
+  url: "/sponsors-partners/"
+  side: left
 
 - title: "REGISTRATION"
   url: "/application/"
